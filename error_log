@@ -1,0 +1,24 @@
+
+> template-nexts-page-tailwind@0.1.0 start /mnt/github/stub-ai/36188f67-758c-5b92-b365-bcd71b0584d2/4e2d442fca649bb2e9ed9c84ff232621
+> next start "/mnt/github/stub-ai/36188f67-758c-5b92-b365-bcd71b0584d2/4e2d442fca649bb2e9ed9c84ff232621" "-p" "46189"
+
+
+[Error: ENOENT: no such file or directory, open '/mnt/github/stub-ai/36188f67-758c-5b92-b365-bcd71b0584d2/4e2d442fca649bb2e9ed9c84ff232621/.next/BUILD_ID'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/mnt/github/stub-ai/36188f67-758c-5b92-b365-bcd71b0584d2/4e2d442fca649bb2e9ed9c84ff232621/.next/BUILD_ID'
+}
+ ELIFECYCLE  Command failed with exit code 1.
+
+> template-nexts-page-tailwind@0.1.0 start /mnt/github/stub-ai/36188f67-758c-5b92-b365-bcd71b0584d2/4e2d442fca649bb2e9ed9c84ff232621
+> next start "/mnt/github/stub-ai/36188f67-758c-5b92-b365-bcd71b0584d2/4e2d442fca649bb2e9ed9c84ff232621" "-p" "42143"
+
+
+[Error: ENOENT: no such file or directory, open '/mnt/github/stub-ai/36188f67-758c-5b92-b365-bcd71b0584d2/4e2d442fca649bb2e9ed9c84ff232621/.next/BUILD_ID'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/mnt/github/stub-ai/36188f67-758c-5b92-b365-bcd71b0584d2/4e2d442fca649bb2e9ed9c84ff232621/.next/BUILD_ID'
+}
+ ELIFECYCLE  Command failed with exit code 1.
