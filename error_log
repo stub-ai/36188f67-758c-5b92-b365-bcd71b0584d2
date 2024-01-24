@@ -22,3 +22,12 @@
   path: '/mnt/github/stub-ai/36188f67-758c-5b92-b365-bcd71b0584d2/4e2d442fca649bb2e9ed9c84ff232621/.next/BUILD_ID'
 }
  ELIFECYCLE  Command failed with exit code 1.
+
+> template-nexts-page-tailwind@0.1.0 start /mnt/github/stub-ai/36188f67-758c-5b92-b365-bcd71b0584d2/5ac5b4967b67f52ba22c47063bcb9ef8
+> next start "/mnt/github/stub-ai/36188f67-758c-5b92-b365-bcd71b0584d2/5ac5b4967b67f52ba22c47063bcb9ef8" "-p" "34657"
+
+
+  ▲ Next.js 13.5.4
+  - Local:        http://localhost:34657
+
+ ✓ Ready in 223ms
